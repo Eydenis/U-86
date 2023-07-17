@@ -18,3 +18,7 @@ Oyun sona erdiğinde, elde ettiğiniz skor ekranda görüntülenir.
 ![image](https://github.com/Eydenis/U-86/assets/129098946/b5d46982-37b5-4ee8-878f-c38901628f2e)
 ![image](https://github.com/Eydenis/U-86/assets/129098946/79fb287b-4d32-4031-bef6-2c58e7c8d655)
 ![image](https://github.com/Eydenis/U-86/assets/129098946/2f84a275-dc86-4f38-aad9-4b90851ff009)
+ Oyununa başlamadan önce ekiple defalarca iletişime geçmeye çalışıldı. Toplantıya ve oyun yapım aşamasına yanlızca 3 kişilik ekip dahil oldu.
+-Gizem Altıncı
+-Beyza Oktar
+-Mehmet Erdeniz Kızılırmak
