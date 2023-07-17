@@ -1,4 +1,4 @@
-Nutty Witch Oyunu
+Nutty Witch
 Oyun İçeriği:"Nutty Witch", heyecan verici bir 2D oyunudur, Cadımız hayaletlerle dolu bir dünyada skor elde etmeye çalışıyor. Tek bir hayalet temasında oyun sona erer, bu yüzden dikkatli olmalısınız!
 Oyun iki sahneden oluşmaktadır:
 Menü Sahnesi
