@@ -5,7 +5,7 @@ Menü Sahnesi
 Bu sahne oyunun başlangıç ekranını temsil eder. Burada "Play" tuşuna basarak oyun sahnesine geçiş yapabilirsiniz.
 ![image](https://github.com/Eydenis/U-86/assets/129098946/32b70bd6-9aa6-422d-85ec-e829d60ea5bf)
 Oyun Sahnesi
-Bu sahnede gerçek eğlence başlar! Cadımızı yön tuşlarıyla yukarı ve aşağı yönlere hareket ettirerek hayaletlerden kaçmalıyız. Hayaletlere dokunduğumuzda, "Game Over" ekranı belirir ve oyun sona erer. Ancak endişelenmeyin, kazandığınız skor en üstte görüntülenir, böylece daha yüksek skorlar elde etmek için bir sonraki denemenize odaklanabilirsiniz.
+Bu sahnede gerçek eğlence başlar! Cadımızı yön tuşlarıyla yukarı ve aşağı yönlere hareket ettirerek hayaletlerden kaçmalıyız.Oyun esnasında "Esc" tuşuna basarak pause menüsü açılır:oyuna resume diyerek devam edebilir ya da ana menüye ilerlebilirsiniz. Hayaletlere dokunduğumuzda, "Game Over" ekranı belirir ve oyun sona erer. Ancak endişelenmeyin, kazandığınız skor en üstte görüntülenir, böylece daha yüksek skorlar elde etmek için bir sonraki denemenize odaklanabilirsiniz.
 Oyun Kuralları
 Cadı, yön tuşlarıyla hareket ettirilebilir (yukarı ve aşağı).
 Tek bir hayalet temasında oyun sona erer ve "Game Over" ekranı görüntülenir.
